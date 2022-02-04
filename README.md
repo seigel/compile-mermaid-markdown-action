@@ -1,3 +1,5 @@
+> NOTICE: February 4, 2022: This is a fork of neejaw's great work on building a git hub action to compile mermaid in place.
+
 > NOTICE: Github has publicly added mermaid support to their roadmap to support ([ref](https://github.com/github/roadmap/issues/372)).  When it is released, this action will be archived and removed from the market place.
 
 # compile-mermaid-markdown-action (beta)

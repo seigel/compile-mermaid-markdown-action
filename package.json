@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neenjaw/mermaid-workflow-test.git"
+    "url": "git+https://github.com/seigel/compile-mermaid-markdown-action.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/neenjaw/mermaid-workflow-test/issues"
+    "url": "https://github.com/seigel/compile-mermaid-markdown-action/issues"
   },
-  "homepage": "https://github.com/neenjaw/mermaid-workflow-test#readme",
+  "homepage": "https://github.com/seigel/compile-mermaid-markdown-action#readme",
   "dependencies": {
-    "@mermaid-js/mermaid-cli": "^8.9.2"
+    "@mermaid-js/mermaid-cli": "^8.13.10"
   }
 }
